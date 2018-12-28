@@ -1,7 +1,7 @@
 {
   "name": "rudy-captch",
   "description": "这是一个canvas绘制的前端验证码插件",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "rudy <rudy_zhou@sina.cn>",
   "license": "MIT",
   "main": "dist/rudy-captcha.js",
