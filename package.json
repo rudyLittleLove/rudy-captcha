@@ -1,7 +1,7 @@
 {
   "name": "rudy-captch",
   "description": "这是一个canvas绘制的前端验证码插件",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "author": "rudy <rudy_zhou@sina.cn>",
   "license": "MIT",
   "main": "dist/rudy-captcha.js",
@@ -16,7 +16,7 @@
   "dependencies": {
     "vue": "^2.5.11",
     "vue-router": "^2.0.0",
-    "rudy-captch": "^1.0.0"
+    "rudy-captch": "^1.0.6"
   },
   "browserslist": [
     "> 1%",
