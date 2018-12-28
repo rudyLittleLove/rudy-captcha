@@ -15,6 +15,6 @@ npm run dev
 npm run build
 ```
 Demo
-https://rudylittlelove.github.io/rudy-scrollbar/
+https://rudylittlelove.github.io/rudy-captcha/
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
